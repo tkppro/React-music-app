@@ -1,0 +1,1 @@
+export const SONG_BAR_PROGRESS_DIV_WIDTH = 280
